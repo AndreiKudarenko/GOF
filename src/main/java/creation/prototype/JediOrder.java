@@ -3,7 +3,7 @@ package creation.prototype;
 import java.util.List;
 
 
-public class CloneWars
+public class JediOrder
 {
 	public static void main(String[] args)
 	{
